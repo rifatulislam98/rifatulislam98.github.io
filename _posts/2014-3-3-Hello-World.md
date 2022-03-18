@@ -3,10 +3,4 @@ layout: post
 title: You're up and running!
 published: true
 ---
-Hello this me Rifat##
-
-##
-
-
-
-
+# Hello this me Rifat
