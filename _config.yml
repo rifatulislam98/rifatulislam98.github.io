@@ -9,8 +9,7 @@ name: Rifatul Islam
 description: Student,Competitive Programmer
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://drive.google.com/file/d/1GA0sW2sJI4B6JeBRfP6aPJlXH9lp_06Q/view?usp=sharing
-
+avatar: https://github.com/rifatulislam98
 #
 # Flags below are optional
 #
@@ -19,14 +18,14 @@ avatar: https://drive.google.com/file/d/1GA0sW2sJI4B6JeBRfP6aPJlXH9lp_06Q/view?u
 footer-links:
   dribbble:
   email:
-  facebook:
+  facebook: https://www.facebook.com/rifatentr/
   flickr:
-  github: barryclark/jekyll-now
+  github: https://github.com/rifatulislam98
   instagram:
   linkedin:
   pinterest:
   rss: # just type anything here for a working RSS icon
-  twitter: jekyllrb
+  twitter: 
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
